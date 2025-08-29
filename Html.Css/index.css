@@ -1,0 +1,21 @@
+body{
+    background-color: burlywood;
+    color: rgb(255, 255, 255);
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+p.stycke1{
+    background-color: rgb(30, 111, 117);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+p.stycke2{
+    text-align: right;
+}
+p.migsjälv{
+    border: 2px solid black;
+    border-width: 3px;
+    padding: 5px;
+}
